@@ -4,6 +4,9 @@
 
   ![image](pictures/luci_app_wifiparental.png)
 
+
+  A lot of inspiration for this project came from [luci-app-wifischedule](https://github.com/newkit/luci-app-wifischedule).
+
 # Compiling
 
   In order to compile wifiparental, you must first obtain an OpenWrt [SDK](https://downloads.openwrt.org/) for the release you are working with.
